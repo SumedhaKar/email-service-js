@@ -1,3 +1,4 @@
+
 # Email Service API (JavaScript)
 
 ## Features
@@ -26,3 +27,7 @@ POST /send
   "requestId": "abc123"
 }
 ```
+
+# email-service-js
+Mock email sending service with retry, fallback, and tracking
+
